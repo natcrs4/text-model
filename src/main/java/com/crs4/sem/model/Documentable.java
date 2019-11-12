@@ -8,6 +8,8 @@ public String getDescription();
 public String text();
 public String getAuthors();
 public String [] getCategories();
+public void setCategories(String[] parents);
+public String getUrl();
 
   
    
